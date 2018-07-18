@@ -1,0 +1,12 @@
+.house {
+    background-image: url("https://wallpaperclicker.com/storage/wallpaper/harry-potter-wallpapers-desktop-86788224.jpg") ;*/
+    background-size: cover;
+    opacity: 0.8;
+}
+
+#h1{
+    color:white;
+    font-size: 100px;
+    text-align: center;   
+    font-family: "Brush Script MT", cursive;
+}
